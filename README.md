@@ -1,8 +1,6 @@
-### Nikita Samartsev [mail](mailto:samartsevnikita@gmail.com)
+### Nikita Samartsev 
 #### 
 
-T-stack: Java 8/11, Spring Boot, SQL (MySQL, Postgres), Bash, Kubernetes, Docker, Terraform
-Cloud: AWS, GCP
 
 <!--
 **smrzvns/smrzvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- T-stack: Java 8/11, Spring Boot, SQL (MySQL, Postgres), Bash, Kubernetes, Docker, Terraform
+- Cloud: AWS, GCP
+
 -->
