@@ -14,4 +14,4 @@
 <!-- - ⚡ Fun fact: ... -->
 
 - T-stack: Java 8/11, Spring Boot, SQL (MySQL, Postgres), Bash, Kubernetes, Docker, Terraform
-- Cloud: AWS, GCP
+- Cloud: AWS
