@@ -9,7 +9,7 @@
 <!-- - 🌱 I’m currently learning Cloud Technologies. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [write me mail](mailto:samartsevnikita@gmail.com)
+<!-- - 📫 How to reach me: [write me mail](mailto:samartsevnikita@gmail.com) -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
