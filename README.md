@@ -13,5 +13,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- T-stack: Java 8/11, Spring Boot, SQL (MySQL, Postgres), Bash, Kubernetes, Docker, Terraform
+- T-stack: Java 8/11, Spring Boot, SQL (MySQL, Postgres)
 - Cloud: AWS
+- Terraform
+- Docker,  Kubernetes, Openshift
+- Bash
+- Linux (RHEL, Ubuntu)
