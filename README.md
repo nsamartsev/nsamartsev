@@ -13,7 +13,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- T-stack: Java 8/11, Spring Boot, SQL (MySQL, PostgreSQL), Openresty (Nginx, Lua)
+- T-stack: Java, Spring Framework (Boot, JPA, Actuator), SQL (MySQL, PostgreSQL), Openresty (Nginx, Lua)
 - Cloud: AWS
 - Terraform
 - Docker,  Kubernetes, Openshift
