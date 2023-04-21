@@ -13,7 +13,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java 8/11
-- Spring (Boot, Cloud, Data JPA, Security), SQL (PostgreSQL, MySQL), Openresty (Nginx, Lua)
+- Java 8/11, Lua 
+- Spring (Boot, Cloud, Data JPA, Security)
+- SQL (PostgreSQL, MySQL)
+- Openresty (Nginx), ELK, Kafka, RabbitMQ
 - Docker,  Kubernetes, Openshift
 - Bash, Linux
