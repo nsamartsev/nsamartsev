@@ -13,7 +13,7 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java 8/11, Lua 
+- Java 8/11/17, Lua, Python, Scala
 - Spring (Boot, Cloud, Data JPA, Security)
 - SQL (PostgreSQL, MySQL)
 - Openresty (Nginx), ELK, Kafka, RabbitMQ
