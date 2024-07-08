@@ -13,9 +13,11 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java 8/11/17, Lua, Python, Scala
+- Java, Lua, Python, Golang
 - Spring (Boot, Cloud, Data JPA, Security)
 - SQL (PostgreSQL, MySQL)
-- Openresty (Nginx), ELK, Kafka, RabbitMQ
-- Docker,  Kubernetes, Openshift
+- NoSQL (Elasticsearch, MongoDb)
+- Openresty (Nginx), ELK
+- RabbitMQ, Kafka
+- Docker,  Kubernetes
 - Bash, Linux
