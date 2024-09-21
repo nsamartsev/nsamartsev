@@ -13,11 +13,12 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java, Lua, Python, Golang
+- Java, Python, Golang, Lua
 - Spring (Boot, Cloud, Data JPA, Security)
 - SQL (PostgreSQL, MySQL)
 - NoSQL (Elasticsearch, MongoDb)
-- Openresty (Nginx), ELK
+- Openresty (Nginx+LuaJIT), ELK
 - RabbitMQ, Kafka
+- IaC (Terraform), Datadog
 - Docker,  Kubernetes
 - Bash, Linux
