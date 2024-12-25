@@ -13,8 +13,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java, Python, Golang, Lua
-- Spring (Boot, Cloud, Data JPA, Security)
+- Java fluently
+- Spring Framework (Boot, Cloud, Data JPA, Security)
 - SQL (PostgreSQL, MySQL)
 - NoSQL (Elasticsearch, MongoDb)
 - Openresty (Nginx+LuaJIT), ELK
