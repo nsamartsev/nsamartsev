@@ -13,12 +13,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Java fluently
-- Spring Framework (Boot, Cloud, Data JPA, Security)
-- SQL (PostgreSQL, MySQL)
-- NoSQL (Elasticsearch, MongoDb)
-- Openresty (Nginx+LuaJIT), ELK
+- Golang, SQL
+- PostgreSQL, MongoDb, Elasticsearch
 - RabbitMQ, Kafka
-- IaC (Terraform), Datadog
-- Docker,  Kubernetes
+- Nginx
+- Docker, Kubernetes
 - Bash, Linux
