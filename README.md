@@ -13,9 +13,4 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-- Golang, SQL
-- PostgreSQL, MongoDb, Elasticsearch
-- RabbitMQ, Kafka
-- Nginx
-- Docker, Kubernetes
-- Bash, Linux
+- Golang | k8s | PostgreSQL | Kafka
